@@ -51,16 +51,23 @@ I'm a tech enthusiast with an entrepreneurial drive, aspiring to innovate and ta
 
 <br>
 
-Portfolio -
-  - https://elahe-portfolio.vercel.app/
+## Projects
+
+I have actively engaged in numerous project endeavors from )019 to the present, encompassing a wide range of domains and technologies. While it is not feasible to present them all here, my portfolio website and GitHub profile serve as comprehensive repositories to showcase the depth and breadth of my project works. Among the notable projects I have undertaken are:
+  - Recon Laboratories Ltd
+  - FastBox
+  - Falcon
+  - Kajer Dokan
+
+Portfolio   - https://elahe-portfolio.vercel.app/
+GitHub      - https://github.com/towfique
+CodePen     - https://codepen.io/towfique-elahe
 
 Social -
   - https://www.linkedin.com/in/towfiqueelahe/
-  - https://www.freecodecamp.org/towfiqueelahe
-  - https://codepen.io/towfique-elahe
-  - https://www.behance.net/towfique_elahe
   - https://www.facebook.com/towfiqueelahefahim/
+  - https://www.instagram.com/towfique_elahe/
 
-Contact Me -
+Contact -
   - phone : +880140492967
   - mail  : towfiqueelahe6@gmail.com
