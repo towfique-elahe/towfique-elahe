@@ -59,9 +59,9 @@ I have actively engaged in numerous project endeavors from )019 to the present, 
   - Falcon
   - Kajer Dokan
 
-Portfolio   - https://elahe-portfolio.vercel.app/
-GitHub      - https://github.com/towfique
-CodePen     - https://codepen.io/towfique-elahe
+Portfolio   - https://elahe-portfolio.vercel.app/ <br>
+GitHub      - https://github.com/towfique <br>
+CodePen     - https://codepen.io/towfique-elahe <br>
 
 Social -
   - https://www.linkedin.com/in/towfiqueelahe/
