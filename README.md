@@ -43,6 +43,14 @@ I'm a tech enthusiast with an entrepreneurial drive, aspiring to innovate and ta
 <p>November 2022 to Present</p>
 <br>
 
+## Achievements
+
+<p><b>Responsive Web Design Certification, freeCodeCamp</b> [October, 2021]</p>
+<p><b>PHP with Laravel Framework, BASIS</b> [November, 2022]</p>
+<p><b>Professional English Communication Skill, Supported b WSDA y BASIS</b> [November, 2022]</p>
+
+<br>
+
 Portfolio -
   - https://elahe-portfolio.vercel.app/
 
