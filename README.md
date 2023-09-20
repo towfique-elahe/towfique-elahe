@@ -16,25 +16,32 @@ I'm a tech enthusiast with an entrepreneurial drive, aspiring to innovate and ta
 ## Employment History
 
 <p><b>SEO Strategist, Outreach Manager at 4DGIT</b></p>
-<p>January 2019 to December 2020</p>
+<p>December 2019 to December 2020</p>
+<br>
 
 <p><b>Freelancer at Fiverr</b></p>
 <p>July 2020 to January 2021</p>
+<br>
 
 <p><b>CEO, Co-Founder at Kreetive</b></p>
 <p>December 2020 to Present</p>
+<br>
 
 <p><b>CEO, Co-Founder at Perfume BD</b></p>
 <p>December 2020 to Present</p>
+<br>
 
 <p><b>Managing Director at Web Cifar</b></p>
 <p>January 2021 to May 2021</p>
+<br>
 
 <p><b>CEO, Co-Founder at Tiddix</b></p>
 <p>January 2021 to Present</p>
+<br>
 
 <p><b>CEO, Founder at Code Shikho</b></p>
 <p>November 2022 to Present</p>
+<br>
 
 Portfolio -
   - https://elahe-portfolio.vercel.app/
