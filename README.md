@@ -8,39 +8,35 @@ I'm a tech enthusiast with an entrepreneurial drive, aspiring to innovate and ta
 
 ## Education
 <p><b>B.Sc. in Computer Science & Engineering from East Delta University</b> [2018 to 2023]</p>
-<p><b>HSC from Cambrian College</b> [2015 to 2017]</p>
+<p><b>HSC from Islamia Degree College</b> [2015 to 2017]</p>
 <p><b>SSC from Municipal High School</b> [2013 to 2015]</p>
 
 <br>
 
 ## Employment History
 
-<p><b>SEO Strategist, Outreach Manager at 4DGIT</b></p>
-<p>December 2019 to December 2020</p>
+<p><b>SEO Manager at 4DGIT</b></p>
+<p>January 2019 to December 2020</p>
 <br>
 
 <p><b>Freelancer at Fiverr</b></p>
-<p>July 2020 to January 2021</p>
+<p>July 2020 to Present</p>
 <br>
 
 <p><b>CEO, Co-Founder at Kreetive</b></p>
-<p>December 2020 to Present</p>
+<p>December 2020 to 2022</p>
 <br>
 
 <p><b>CEO, Co-Founder at Perfume BD</b></p>
 <p>December 2020 to Present</p>
 <br>
 
-<p><b>Managing Director at Web Cifar</b></p>
-<p>January 2021 to May 2021</p>
-<br>
-
 <p><b>CEO, Co-Founder at Tiddix</b></p>
-<p>January 2021 to Present</p>
+<p>January 2020 to Present</p>
 <br>
 
-<p><b>CEO, Founder at Code Shikho</b></p>
-<p>November 2022 to Present</p>
+<p><b>Project Manager at CifarX</b></p>
+<p>January 2021 to May 2021</p>
 <br>
 
 ## Achievements
@@ -59,7 +55,7 @@ I have actively engaged in numerous project endeavors from )019 to the present, 
   - Falcon
   - Kajer Dokan
 
-Portfolio   - https://elahe-portfolio.vercel.app/ <br>
+Portfolio   - https://towfique-elahe.framer.website/ <br>
 GitHub      - https://github.com/towfique <br>
 CodePen     - https://codepen.io/towfique-elahe <br>
 
