@@ -39,6 +39,14 @@ I'm a tech enthusiast with an entrepreneurial drive, aspiring to innovate and ta
 <p>January 2021 to May 2021</p>
 <br>
 
+<p><b>Sr. WordPress & Shopify Developer at SISCOTEK</b></p>
+<p>June 2024 to Present</p>
+<br>
+
+<p><b>WordPress Developer at Orbit570</b></p>
+<p>November 2024 to Present</p>
+<br>
+
 ## Achievements
 
 <p><b>Responsive Web Design Certification, freeCodeCamp</b> [October, 2021]</p>
@@ -50,10 +58,10 @@ I'm a tech enthusiast with an entrepreneurial drive, aspiring to innovate and ta
 ## Projects
 
 I have actively engaged in numerous project endeavors from )019 to the present, encompassing a wide range of domains and technologies. While it is not feasible to present them all here, my portfolio website and GitHub profile serve as comprehensive repositories to showcase the depth and breadth of my project works. Among the notable projects I have undertaken are:
-  - Recon Laboratories Ltd
-  - FastBox
-  - Falcon
-  - Kajer Dokan
+  - Joomana
+  - Home Decor
+  - Aone Jewelry
+  - Maria Barnett
 
 Portfolio   - https://towfique-elahe.framer.website/ <br>
 GitHub      - https://github.com/towfique <br>
@@ -61,8 +69,6 @@ CodePen     - https://codepen.io/towfique-elahe <br>
 
 Social -
   - https://www.linkedin.com/in/towfiqueelahe/
-  - https://www.facebook.com/towfiqueelahefahim/
-  - https://www.instagram.com/towfique_elahe/
 
 Contact -
   - phone : +880140492967
