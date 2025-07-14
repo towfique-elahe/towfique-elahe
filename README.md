@@ -1,75 +1,104 @@
-# Assalamu Alaikum, I’m Towfique Elahe 😊
+<h1 align="center">👋 Assalamu Alaikum, I’m Towfique Elahe</h1>
 
-<img src="https://github.com/towfique-elahe/towfique-elahe/assets/68939516/4746245e-f06b-4047-9851-614f5f18b0ba" alt="Towfique Elahe" width="300">
+<p align="center">
+  <img src="https://github.com/towfique-elahe/towfique-elahe/assets/68939516/4746245e-f06b-4047-9851-614f5f18b0ba" alt="Towfique Elahe" width="200"/>
+</p>
 
-I'm a tech enthusiast with an entrepreneurial drive, aspiring to innovate and tackle future challenges as a Software Engineer and entrepreneur.
+<p align="center">
+  <strong>👨‍💻 Software Engineer | 🚀 Tech Entrepreneur | 🧠 Problem Solver</strong><br/>
+  Passionate about building impactful digital products and solving real-world problems through code and creativity.
+</p>
 
-<br>
+---
 
-## Education
-<p><b>B.Sc. in Computer Science & Engineering from East Delta University</b> [2018 to 2023]</p>
-<p><b>HSC from Islamia Degree College</b> [2015 to 2017]</p>
-<p><b>SSC from Municipal High School</b> [2013 to 2015]</p>
+## 🧑‍💻 About Me
 
-<br>
+- 🎓 **B.Sc. in CSE** from *East Delta University* (2018–2023)  
+- 💼 Skilled in **modern web & app development**  
+- 🚀 **Founder** of startups: Kreetive, Perfume BD, Tiddix  
+- 🧪 Always exploring **cutting-edge tech**, tools, and frameworks  
+- 🌐 **Portfolio:** [towfique-elahe.framer.website](https://towfique-elahe.framer.website)
 
-## Employment History
+---
 
-<p><b>SEO Manager at 4DGIT</b></p>
-<p>January 2019 to December 2020</p>
-<br>
+## 💼 Experience
 
-<p><b>Freelancer at Fiverr</b></p>
-<p>July 2020 to Present</p>
-<br>
+| 🧑‍💼 Role | 🏢 Organization | 📅 Duration |
+|----------|----------------|-------------|
+| WordPress Theme & Plugin Developer | Orbit570 | Nov 2024 – Present |
+| Sr. WordPress & Shopify Developer | SISCOTEK | Jun 2024 – Present |
+| Project Manager | CifarX | Jan 2021 – May 2021 |
+| CEO & Co-Founder | Perfume BD | Dec 2020 – Present |
+| CEO & Co-Founder | Tiddix | Jan 2020 – Present |
+| CEO & Co-Founder | Kreetive | Dec 2020 – 2022 |
+| Freelancer | Fiverr | Jul 2020 – Present |
+| SEO Manager | 4DGIT | Jan 2019 – Dec 2020 |
 
-<p><b>CEO, Co-Founder at Kreetive</b></p>
-<p>December 2020 to 2022</p>
-<br>
+---
 
-<p><b>CEO, Co-Founder at Perfume BD</b></p>
-<p>December 2020 to Present</p>
-<br>
+## 🎓 Education
 
-<p><b>CEO, Co-Founder at Tiddix</b></p>
-<p>January 2020 to Present</p>
-<br>
+- **East Delta University**  
+  B.Sc. in Computer Science & Engineering (2018–2023)
 
-<p><b>Project Manager at CifarX</b></p>
-<p>January 2021 to May 2021</p>
-<br>
+---
 
-<p><b>Sr. WordPress & Shopify Developer at SISCOTEK</b></p>
-<p>June 2024 to Present</p>
-<br>
+## 🏅 Certifications
 
-<p><b>WordPress Developer at Orbit570</b></p>
-<p>November 2024 to Present</p>
-<br>
+- 📜 Responsive Web Design – *freeCodeCamp*  
+- 📜 PHP with Laravel Framework – *BASIS*  
+- 📜 Professional English Communication Skills – *WSDA & BASIS*
 
-## Achievements
+---
 
-<p><b>Responsive Web Design Certification, freeCodeCamp</b> [October, 2021]</p>
-<p><b>PHP with Laravel Framework, BASIS</b> [November, 2022]</p>
-<p><b>Professional English Communication Skill, Supported b WSDA y BASIS</b> [November, 2022]</p>
+## 🚀 Featured Projects
 
-<br>
+Some of my favorite work:
 
-## Projects
+- 🔧 **[LCMS](https://github.com/towfique-elahe/lcms)** – Laravel CMS using Vite & Tailwind  
+- 🎯 **[Analyst For You](https://github.com/towfique-elahe/analystforyou)** – WordPress theme for data analyst jobs  
+- 💼 **[WP Job Listings Custom](https://github.com/towfique-elahe/wp-job-listings-custom)** – Custom job view plugin for WordPress  
+- 📚 **[Joomana](https://github.com/towfique-elahe/joomana)** – WordPress eLearning theme  
+- 📊 **[Review MVP](https://github.com/towfique-elahe/reviewmvp)** – Course review platform  
+- 🧠 **[Beyond Words](https://github.com/towfique-elahe/beyond-words)** – Bangla accent classification via neural networks
 
-I have actively engaged in numerous project endeavors from )019 to the present, encompassing a wide range of domains and technologies. While it is not feasible to present them all here, my portfolio website and GitHub profile serve as comprehensive repositories to showcase the depth and breadth of my project works. Among the notable projects I have undertaken are:
-  - Joomana
-  - Home Decor
-  - Aone Jewelry
-  - Maria Barnett
+📁 More Projects:  
+🔗 [Portfolio](https://towfique-elahe.framer.website) • [GitHub](https://github.com/towfique) • [CodePen](https://codepen.io/towfique-elahe)
 
-Portfolio   - https://towfique-elahe.framer.website/ <br>
-GitHub      - https://github.com/towfique <br>
-CodePen     - https://codepen.io/towfique-elahe <br>
+---
 
-Social -
-  - https://www.linkedin.com/in/towfiqueelahe/
+## 📊 GitHub Stats
 
-Contact -
-  - phone : +880140492967
-  - mail  : towfiqueelahe6@gmail.com
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=towfique-elahe&show_icons=true&theme=tokyonight&hide_border=true" alt="Towfique's GitHub Stats" />
+</div>
+
+---
+
+## 📌 Top Languages
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=towfique-elahe&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages Used" />
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=towfique-elahe&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph" />
+</div>
+
+---
+
+## 🌐 Let's Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/towfiqueelahe"><strong>LinkedIn</strong></a> • 
+  <a href="mailto:towfiqueelahe6@gmail.com"><strong>Email</strong></a> • 
+  📱 +880 1404 929 67
+</p>
+
+---
+
+> 🕒 *"Time is the most valuable investment — spend it where growth multiplies."* — **Towfique Elahe**
