@@ -26,10 +26,10 @@
 | 🧑‍💼 Role | 🏢 Organization | 📅 Duration |
 |----------|----------------|-------------|
 | WordPress Theme & Plugin Developer | Orbit570 | Nov 2024 – Present |
-| Sr. WordPress & Shopify Developer | SISCOTEK | Jun 2024 – Present |
+| Sr. WordPress & Shopify Developer | SISCOTEK | Jun 2024 – Sep 2025 |
 | Project Manager | CifarX | Jan 2021 – May 2021 |
 | CEO & Co-Founder | Perfume BD | Dec 2020 – Present |
-| CEO & Co-Founder | Tiddix | Jan 2020 – Present |
+| CEO & Co-Founder | Tiddix | Jan 2020 – 2022 |
 | CEO & Co-Founder | Kreetive | Dec 2020 – 2022 |
 | Freelancer | Fiverr | Jul 2020 – Present |
 | SEO Manager | 4DGIT | Jan 2019 – Dec 2020 |
