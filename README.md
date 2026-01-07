@@ -105,7 +105,7 @@ Here's an updated version of your GitHub README with the requested role changes 
   <a href="mailto:towfiqueelahe6@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://towfique-elahe.framer.website">
+  <a href="https://towfiqueelahe.com">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=aboutdotme&logoColor=white" alt="Portfolio"/>
   </a>
   <a href="https://github.com/towfique-elahe">
