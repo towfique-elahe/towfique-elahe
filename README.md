@@ -63,20 +63,10 @@ Here's an updated version of your GitHub README with the requested role changes 
 ---
 
 ## 🚀 Featured Projects
-
-### **WordPress & Web Development**
-- 🔧 **[GradeBook (formerly Review MVP)](https://github.com/towfique-elahe/spillthecourse)** – Complete WordPress theme for course review platforms with custom post types, user dashboards, and LinkedIn integration
-- 🎯 **[Analyst For You](https://github.com/towfique-elahe/analystforyou)** – WordPress theme for data analyst job listings with advanced filtering
-- 💼 **[WP Job Listings Custom](https://github.com/towfique-elahe/wp-job-listings-custom)** – WordPress plugin for custom job views and applications
-- 📚 **[Joomana](https://github.com/towfique-elahe/joomana)** – WordPress eLearning theme with course management and student dashboards
-
-### **Full-Stack & Applications**
-- 📊 **[LCMS](https://github.com/towfique-elahe/lcms)** – Modern Laravel CMS built with Vite & Tailwind CSS
-- 🧠 **[Beyond Words](https://github.com/towfique-elahe/beyond-words)** – Bangla accent classification using neural networks and machine learning
-- 🔗 **[Elementor → Recruit CRM Integration](https://github.com/towfique-elahe/elementor-recruitcrm-integration)** – WordPress plugin for automating recruitment workflows
+...
 
 **Explore more projects:**  
-🔗 [Portfolio](https://towfique-elahe.framer.website) • [GitHub](https://github.com/towfique-elahe) • [CodePen](https://codepen.io/towfique-elahe)
+🔗 [Portfolio](https://towfiqueelahe.cpm) • [GitHub](https://github.com/towfique-elahe) • [CodePen](https://codepen.io/towfique-elahe)
 
 ---
 
