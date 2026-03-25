@@ -66,7 +66,7 @@ Here's an updated version of your GitHub README with the requested role changes 
 ...
 
 **Explore more projects:**  
-🔗 [Portfolio](https://towfiqueelahe.cpm) • [GitHub](https://github.com/towfique-elahe) • [CodePen](https://codepen.io/towfique-elahe)
+🔗 [Portfolio](https://towfiqueelahe.com) • [GitHub](https://github.com/towfique-elahe) • [CodePen](https://codepen.io/towfique-elahe)
 
 ---
 
