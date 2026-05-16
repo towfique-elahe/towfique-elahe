@@ -1,116 +1,108 @@
-Here's an updated version of your GitHub README with the requested role changes and other improvements for a professional presentation:
-
-<h1 align="center">👋 Assalamu Alaikum, I'm Towfique Elahe</h1>
-
-<p align="center">
-  <img src="https://github.com/towfique-elahe/towfique-elahe/assets/68939516/4746245e-f06b-4047-9851-614f5f18b0ba" alt="Towfique Elahe" width="200"/>
-</p>
-
-<p align="center">
-  <strong>👨‍💻 Software Engineer | 🚀 Tech Entrepreneur | 🧠 Problem Solver</strong><br/>
-  Building impactful digital products and solving complex problems through innovative technology solutions.
-</p>
-
----
-
-## 🧑‍💻 About Me
-
-- 🎓 **B.Sc. in Computer Science & Engineering** from *East Delta University* (2018–2023)  
-- 💼 Expert in **modern web development, WordPress ecosystem, and e-commerce solutions**  
-- 🚀 **Serial Entrepreneur** with multiple successful ventures: Kreetive, Perfume BD, Tiddix  
-- 🧪 Continuously exploring **cutting-edge technologies** and scalable architectures  
-- 🌐 **Portfolio:** [towfiqueelahe.com](https://towfiqueelahe.com)
-
----
-
-## 💼 Professional Experience
-
-| Role & Responsibilities | Organization | Duration |
-|-------------------------|--------------|----------|
-| **WordPress Theme & Plugin Developer**<br>• Developing custom WordPress solutions<br>• Creating scalable themes and plugins<br>• Implementing complex functionality | **Orbit570** | Nov 2024 – Present |
-| **Sr. WordPress & Shopify Developer**<br>• Leading development projects<br>• Architecting e-commerce solutions<br>• Mentoring junior developers | **SISCOTEK** | Jun 2024 – Sep 2025 |
-| **Project Manager**<br>• Oversaw software development lifecycle<br>• Managed cross-functional teams<br>• Ensured project delivery on time and budget | **CifarX** | Jan 2021 – May 2021 |
-| **CEO & Co-Founder**<br>• Founded and scaled e-commerce platform<br>• Developed business strategy and operations<br>• Built vendor and customer networks | **Perfume BD** | Dec 2020 – Present |
-| **CEO & Co-Founder**<br>• Launched tech startup<br>• Secured funding and partnerships<br>• Developed MVP and product roadmap | **Tiddix** | Jan 2020 – 2022 |
-| **CEO & Co-Founder**<br>• Founded creative agency<br>• Managed client portfolio and delivery<br>• Built service offerings and brand identity | **Kreetive** | Dec 2020 – 2022 |
-| **Freelance Developer & Consultant**<br>• Delivered 50+ client projects<br>• Specialized in WordPress and web development<br>• Maintained 5-star rating across platforms | **Fiverr & Upwork** | Jul 2020 – Present |
-| **SEO Manager**<br>• Developed and executed SEO strategies<br>• Managed content and link-building campaigns<br>• Increased organic traffic by 300%+ | **4DGIT** | Jan 2019 – Dec 2020 |
-
----
-
-## 🎓 Education
-
-- **East Delta University**  
-  *Bachelor of Science in Computer Science & Engineering* (2018–2023)<br>
-  *Relevant Coursework:* Data Structures, Algorithms, Software Engineering, Database Systems, Web Technologies
-
----
-
-## 🏅 Certifications & Skills
-
-### **Technical Skills**
-- **Web Development:** PHP, Laravel, JavaScript, React, HTML5, CSS3, SASS
-- **WordPress Ecosystem:** Theme Development, Plugin Architecture, WooCommerce, Custom Post Types, REST API
-- **E-commerce:** Shopify, WooCommerce, Payment Gateway Integration
-- **Tools & DevOps:** Git, Docker, Vite, Tailwind CSS, Webpack, Composer
-- **Databases:** MySQL, PostgreSQL, MongoDB
-
-### **Professional Certifications**
-- 📜 **Responsive Web Design** – *freeCodeCamp*
-- 📜 **PHP with Laravel Framework** – *BASIS Institute of Technology & Management*
-- 📜 **Professional English Communication Skills** – *WSDA & BASIS*
-
----
-
-## 🚀 Featured Projects
-...
-
-**Explore more projects:**  
-🔗 [Portfolio](https://towfiqueelahe.com) • [GitHub](https://github.com/towfique-elahe) • [CodePen](https://codepen.io/towfique-elahe)
-
----
-
-## 📊 GitHub Analytics
-
 <div align="center">
-  
-  ![Towfique's GitHub Stats](https://github-readme-stats.vercel.app/api?username=towfique-elahe&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&hide_title=false&include_all_commits=true)
-  
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=towfique-elahe&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
-  
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=towfique-elahe&theme=tokyonight&hide_border=true)
-  
-  ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=towfique-elahe&theme=tokyo-night&hide_border=true&area=true&height=300)
+
+<img src="https://wzhucsqzffkhagbyjhcj.supabase.co/storage/v1/object/public/Projects/site-identity/about/1778775538553-1bv5ybnmtdz.png" width="100" style="border-radius: 50%" />
+
+# Towfique Elahe
+
+**Software Engineer**  
+Remote
+
+[towfiqueelahe.com](https://towfiqueelahe.com) · [LinkedIn](https://linkedin.com/in/towfiqueelahe) · [CodePen](https://codepen.io/towfique-elahe)
 
 </div>
 
 ---
 
-## 🌐 Connect With Me
+Tech enthusiast with an entrepreneurial drive — building impactful digital products and solving complex problems through innovative technology solutions. 7+ years of experience across WordPress, full-stack web, and e-commerce.
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/towfiqueelahe" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:towfiqueelahe6@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://towfiqueelahe.com">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=aboutdotme&logoColor=white" alt="Portfolio"/>
-  </a>
-  <a href="https://github.com/towfique-elahe">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-</p>
-
-<p align="center">
-  📱 <strong>Phone:</strong> +880 1404 929 676
-</p>
+> *"Time is the most valuable investment — spend it where growth multiplies."*
 
 ---
 
-> 🕒 **"Time is the most valuable investment — spend it where growth multiplies."** — **Towfique Elahe**
+## Experience
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=towfique-elahe&color=blueviolet&style=flat-square" alt="Profile views"/>
-</p>
+| Period | Role | Organization |
+|---|---|---|
+| Nov 2024 – Present | WordPress Theme & Plugin Developer | Orbit570 |
+| Nov 2025 – Mar 2026 | WordPress Developer | Muktodhara Technologies Ltd. |
+| Jun 2024 – Sep 2025 | Sr. WordPress & Shopify Developer | SISCOTEK |
+| Jul 2020 – Present | Freelance Developer & Consultant · 50+ projects · 5★ | Fiverr & Upwork |
+| Dec 2020 – Present | Co-Founder | Perfume BD |
+| Dec 2020 – 2022 | Co-Founder | Kreetive |
+| Jan 2020 – 2022 | Co-Founder | Tiddix |
+| Jan 2021 – May 2021 | Project Manager | CifarX |
+| Jan 2019 – Dec 2020 | SEO Manager · 300%+ organic traffic | 4DGIT |
+
+---
+
+## Stack
+
+**WordPress & PHP**  
+WordPress · PHP · Plugin Development · Theme Design · WooCommerce · ACF · REST API · Elementor
+
+**Frontend**  
+HTML5 · CSS3 · Tailwind CSS · JavaScript · TypeScript · React · Next.js
+
+**Backend & Database**  
+Node.js · Express · Laravel · MySQL · PostgreSQL · MongoDB · Supabase · GraphQL
+
+**E-Commerce & Payments**  
+WooCommerce · Shopify · Stripe · Payment Gateway Integration
+
+**Tooling & DevOps**  
+Git · Docker · Vite · Vercel · AWS · CI/CD · React Native · Figma
+
+---
+
+## Projects
+
+| | Project | Stack |
+|---|---|---|
+| [↗](https://towfiqueelahe.com/projects/flight-hired) | **FlightHired** — Aviation job board & recruitment platform | WordPress · Felan · PHP |
+| [↗](https://towfiqueelahe.com/projects/teeb) | **TEEB** — Luxury perfume e-commerce with loyalty system | WooCommerce · PHP |
+| [↗](https://towfiqueelahe.com/projects/bird-property-management) | **Bird Property Management** — 40+ page lead-gen website | WordPress · Elementor |
+| [↗](https://towfiqueelahe.com/projects/spill-the-course) | **Spill The Course** — Course review platform | WordPress · Custom Theme |
+| [↗](https://towfiqueelahe.com/projects/analyst-for-you) | **Analyst For You** — Talent matching & job placement platform | WordPress · PHP |
+| [↗](https://towfiqueelahe.com/projects/joomaths) | **JooMaths** — Multi-role e-learning platform | WordPress · Custom DB |
+| [↗](https://github.com/towfique-elahe/pdf-compressor) | **PDF Compressor** — Python tool for PDF image compression | Python · PyMuPDF |
+
+[View all projects →](https://towfiqueelahe.com/projects)
+
+---
+
+## Education & Certifications
+
+**B.Sc. Computer Science & Engineering**  
+East Delta University, Chittagong · 2018–2023
+
+| Certification | Issuer |
+|---|---|
+| Responsive Web Design | freeCodeCamp |
+| PHP with Laravel Framework | BASIS Institute of Technology & Management |
+| Professional English Communication Skills | WSDA & BASIS |
+
+---
+
+## GitHub Stats
+
+<div align="center">
+
+![Stats](https://github-readme-stats.vercel.app/api?username=towfique-elahe&show_icons=true&count_private=true&theme=default&hide_border=true&include_all_commits=true&hide_title=true)
+
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=towfique-elahe&layout=compact&theme=default&hide_border=true&langs_count=8)
+
+</div>
+
+---
+
+## Contact
+
+**Email:** towfiqueelahe6@gmail.com  
+**Phone:** +880 1404 929 676  
+**Availability:** Open to freelance & full-time · Remote
+
+---
+
+<div align="center">
+<sub>© 2026 Towfique Elahe</sub>
+</div>
