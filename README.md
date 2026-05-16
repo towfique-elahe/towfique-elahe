@@ -83,18 +83,6 @@ East Delta University, Chittagong · 2018–2023
 
 ---
 
-## GitHub Stats
-
-<div align="center">
-
-![Stats](https://github-readme-stats.vercel.app/api?username=towfique-elahe&show_icons=true&count_private=true&theme=default&hide_border=true&include_all_commits=true&hide_title=true)
-
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=towfique-elahe&layout=compact&theme=default&hide_border=true&langs_count=8)
-
-</div>
-
----
-
 ## Contact
 
 **Email:** towfiqueelahe6@gmail.com  
